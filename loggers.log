@@ -1,0 +1,1426 @@
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+error: Can't mint the tokens!: Private key must be 32 bytes long
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x88306fd6e870ac954735a67b79f5c02ab7616f1761f120536f7c0785093b3b7f
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x7c9e561b648c90f19154493ed830d6c2269d2d47fd91536dee7d9ec7ba70099a
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x6a2589d5c62daca8ab4e85cfe860f6ef3ca4f31e65fb966b386f0dfa0f25101e
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Can't autodetect provider for "0x4524441c87821A5a52ec6647440deeDFd7dbDaC0"
+error: Can't mint the tokens!: Can't autodetect provider for "0x4524441c87821A5a52ec6647440deeDFd7dbDaC0"
+info: Server started on port 5000
+error: Can't mint the tokens!: Can't autodetect provider for "0x4524441c87821A5a52ec6647440deeDFd7dbDaC0"
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x439de31fcb13bca5384f7b9e08e430b164655c7eb29b662fab75c343f942cc31
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x3073bfee2c5f82f3d926b587e14fa6c81e2751bee750198deed03514bb320681
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x98c92162b0ac459c7c76885763be5abdee8fd35c40291799eaa919f14b93e0d1
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xc7a8a7ca0f7347742695193f6b15ff31311c8c8feefd438219b6cc82caf42984
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x41de2d4fca031b2e3b226640e38f59d0f2961080be22b672ae4c7149a968f7d1
+error: Can't mint the tokens!: Provider not set or invalid
+info: ℹ: txHash for burning BTK on binance: 0x6bbea4fc2a7a13113a55df9880ae1c73ba63fe61b6d4cac854f8374b63b57dfc
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x0262bd971fa6be66e05d1624fac891011847693fc88c31c5cf6214332d8b9326
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot read properties of undefined (reading 'startsWith')
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x2eb15eaa952f0de1ce6bb0127d5f2cfe527a8fd25a58c9b681f85cd240ace9ea
+error: Can't mint the tokens!: Provider not set or invalid
+info: ℹ: txHash for burning ETK on ethereum: 0x838543b68acee5cd5b0e5db2ecfc9a4e868926671fad035ff64b2b33c8bdce78
+error: Can't mint the tokens!: Provider not set or invalid
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xf847b2d90232b234621440d90a17aade4df84fab7cbfb3e8281e45cfbf84dd6a
+info: ✅:  Amount of ETK burned is 1000000000000000
+info: ✅:  Minting for 1000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0xba7105793f8d188411e2b017fbef663831f049c8e91f4e71d0723f183596c26e
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xd21849ec276694f0aa2e764fa569148c0ddecdfbebb570ea7e0afb4a752d257c
+info: ✅:  Amount of BTK burned is 100000000000000000
+info: ✅:  Minting for 100000000000000000 ETK in progress
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x8a9c7d359b31ee65189e29a9de1158d60a4e1749336599424900f136b20d30d7
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for 100000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x3e520fff0389521f39df470ee26a11b5a21a3d27d67717908ebec8e10c0db137
+info: ✅:  Amount of ETK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning ETK on ethereum: 0x5d6a62b3ce03ccc7dd8f18ea9d3a3a60545e133cab466344d027aa88f3aadf20
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 1000000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning BTK on binance: 0x317db46bb0efc0c754620c35232ed1627139433e2c7f7a45cd121d5670b9b797
+info: ✅:  Amount of BTK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2a4a514d71f1abc39b66bdb65d906e42b2a6a9d46e66b3f74a41ed06d1f8ef66
+info: ✅:  Amount of BTK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning BTK on binance: 0x28fb36eec92ed8d4469d2611b701c233e20a8924fe516bdf6c8442493dadd7d6
+info: ✅:  Amount of BTK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning ETK on ethereum: 0x2224d290ff4a9a675887cab413f4ce8d3ede22ca74b86fb774171e1b7a4d725f
+info: ✅:  Amount of ETK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xbe1a40850b73e07859d157a79ca6a1a0b1ffaadf8fbfe9d63a1f1f90a7af16f1
+info: ✅:  Amount of ETK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x143261d85545b0c00d774813dbbdf4aab819d81a67bea9298465f33705d5720b
+info: ✅:  Amount of BTK burned is 50000000000000000
+info: ✅:  Minting for 50000000000000000 ETK in progress
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0xc9f158ba813a1cbb54250024efacdc6e1f2473b022301b90d9978fe8e973faca
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xb7b36a6659e9678c698bcbf884bb1e5775a356365235550524a19d55242cd0a1
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x980738b37af807e36b269e810e0ae50c582409726f7ca4d3206570858692ebda
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x610828628ab03cb6c9e4a37a0c8f19e6bd7d56d41e0d3a447de0ee25db6a1f54
+info: ✅:  Amount of ETK burned is 100000000000000
+info: ✅:  Minting for 100000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 8000
+info: Server started on port 8000
+info: Server started on port 8000
+info: Server started on port 8000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x6aa8be3ad7d5faca137851652379489dd24b0ffaced7650df4ba7c3f883999b8
+info: ✅:  Amount of ETK burned is 16777216000000000000000
+info: ✅:  Minting for 16777216000000000000000 BTK in progress
+error: Can't mint the tokens!: invalid address (argument="address", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=address/5.6.0) (argument="_token", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=abi/5.0.7)
+info: ℹ: txHash for burning BTK on binance: 0x36490289ded14b94ceb0b90f9c75432eca8e3689b272f89dd45eb7d85a75d732
+info: ✅:  Amount of BTK burned is 0
+info: ✅:  Minting for 0 ETK in progress
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x2fe618653e78f7195b12d973a0a389c4ba4aaa42d15489bcd14b3a36c38e51b3
+info: ✅:  Amount of ETK burned is 1677721600000000000000000
+info: ✅:  Minting for 1677721600000000000000000 BTK in progress
+error: Can't mint the tokens!: invalid address (argument="address", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=address/5.6.0) (argument="_token", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=abi/5.0.7)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xc3fb37b9c388b2245630c3bc1aab5ba60d0742cf4ffb379904c38d0aade7aa8b
+info: ✅:  Amount of BTK burned is 167772160000
+info: ✅:  Minting for 167772160000 ETK in progress
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x11e54652042dae040979273855f672369322c9bb6f0707bb6529437fb535572a
+info: ✅:  Amount of BTK burned is 167772160000
+info: ✅:  Minting for 167772160000 ETK in progress
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x38b79656d0ad8a27f2469d113d8bcdc41094517aaba1480c8c5edfa7f14583a0
+info: ✅:  Amount of BTK burned is 167772160000
+info: ✅:  Minting for 167772160000 ETK in progress
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x3122b9d5547b46f849908f7fad6d4d8f685ca9764954bfdfd3ea31d1d4ee768e
+info: ✅:  Amount of ETK burned is 167772160000000000000000
+info: ✅:  Minting for 167772160000000000000000 BTK in progress
+error: Can't mint the tokens!: invalid address (argument="address", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=address/5.6.0) (argument="_token", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=abi/5.0.7)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x0050954fd459024c81b7c2e199d58cb08aad3535c6a7d8b583d4b779654c4e8e
+info: ✅:  Amount of ETK burned is 167772160000000000000000
+info: ✅:  Minting for 167772160000000000000000 BTK in progress
+error: Can't mint the tokens!: invalid address (argument="address", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=address/5.6.0) (argument="_token", value="743539015488895422316754280999556732995872911889", code=INVALID_ARGUMENT, version=abi/5.0.7)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xc2b9792b194ea13500533479202fcec4dc5bd6ffc28da43422d83faadad7f620
+info: ✅:  Amount of ETK burned is 16777216000000000000000
+info: ✅:  Minting for 16777216000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x794cdb4e2cf2ef1ecc7c9cb6247a8950e7504391dfbed4e9c815ecce3efa74e0
+info: ✅:  Amount of ETK burned is 16777216000000000000000000
+info: ✅:  Minting for 16777216000000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x15d91aafa26cd40de65b263ce0fc2349a0c8aa47b878886aa550417e5495e446
+info: ✅:  Amount of ETK burned is 1677721600000000000000000
+info: ✅:  Minting for 1677721600000000000000000 BTK in progress
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="16777216000.000000000000000000", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xc5334656d28e4a09d0d5e32451611685360bd85c80c2765a195b81fcc5e3393a
+info: ✅:  Amount of ETK burned is 1677721600000000000000000
+info: ✅:  Minting for 1677721600000000000000000 BTK in progress
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x0be46d59f7f442e739e2c46b891d557ba222d2f506be18d6c9109904e3cec419
+info: ✅:  Amount of ETK burned is 1677721600000000000000000
+info: ✅:  Minting for 1677721600000000000000000 BTK in progress
+info: ✅12 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xc5e7f817af72cc7c92ff2fc92118089656a7a0009488e5b070417079d5ab96b2
+info: ✅:  Amount of ETK burned is 167772160000000000000000
+info: ✅:  Minting for 1677721600 BTK in progress
+info: ✅13 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xb608075d024250d2cc572f37f499a0576081707d732383c8f28d75f2ef37eea1
+info: ✅:  Amount of ETK burned is 1677721600000000000000
+info: ✅:  Minting for 16777216 BTK in progress
+info: ✅14 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x617eb33d9e79af79785d562d7c6d1894fc76114e72211610a4988ad8e6f96bb6
+info: ✅:  Amount of ETK burned is 1677721600000000000000000
+info: ✅:  Minting for 16777 BTK in progress
+info: ✅15 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x5def1055df1163d1d4d2c0bbc6a136fad52674d257a99a9abb18cda5898d6693
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x5def1055df1163d1d4d2c0bbc6a136fad52674d257a99a9abb18cda5898d6693
+info: ✅:  Amount of ETK burned is 671088640000000000000000
+info: ✅:  Minting for 318969429112285 BTK in progress
+info: ✅16 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x78939cc368b4f626aceb617046a69015eb62aac0c2578b8463139dfe3bb3746e
+info: ✅:  Amount of ETK burned is 167772160000000000000000
+info: ✅:  Minting for 1677721600 BTK in progress
+info: ✅17 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x971a63904015694ed195c708b989303e78338ab1e047f933ac68feaaac292d5b
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x971a63904015694ed195c708b989303e78338ab1e047f933ac68feaaac292d5b
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 100 BTK in progress
+info: ✅18 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x915003e5e2c377c92e2f6abc0a1e1aa8fe6c1231f35fd90d8531d800f085599f
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000 BTK in progress
+info: ✅19 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x538272053a72ccecc7c3a5146a8e598ac9218767cc7e460a6371f09f3440bc97
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for  BTK in progress
+info: ✅20 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: ℹ: txHash for burning ETK on ethereum: 0x95ec793b0881ec558ee78ed564ac3974bed76421ff1c1b0300f7d5cf903c8308
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for  BTK in progress
+info: ✅21 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: ℹ: txHash for burning ETK on ethereum: 0x6a5c9d56b9164d476430db284ed983efd5ff3807435e6a4f68cc189811055dd3
+info: ✅:  Amount of ETK burned is 100000000000000
+info: ✅:  Minting for  BTK in progress
+info: ✅22 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: ℹ: txHash for burning ETK on ethereum: 0x4bd129584e3b8f516b38ac76d8b02e5c916b8c814aead629a3eb11ce6e810e88
+info: ✅:  Amount of ETK burned is 10000000000000
+info: ✅:  Minting for  BTK in progress
+info: ✅23 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x9fa275713244dd6e684b8b6573bb799de2165c8862e65d9dbfc55b465c13dd47
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 100 BTK in progress
+info: ✅24 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x236e59e81dbc60ad6c8d012efd8765fd067a10b0dcd7f6fb8e5c57739c9f1e3c
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 10000000000000000 BTK in progress
+info: ✅25 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x4a9ca2e7ee804ef4edc37b59452f87f5eb187c2251430cff895185a5c7f6b710
+info: ✅:  Amount of BTK burned is 5000000000000000
+info: ✅:  Minting for 5000000000000000 ETK in progress
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x8cd7781c1525da85a240171701e186ac40f277a8eae7dd9cf9aab8c6d18f7660
+info: ✅:  Amount of BTK burned is 1000000000000000
+info: ✅:  Minting for 1000000000000000 ETK in progress
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x24f16b39bb2629b9eb6f62332f602fb4374cb031fa550b040eece35d617fd23c
+info: ✅:  Amount of BTK burned is 10
+info: ✅:  Minting for 10 ETK in progress
+info: ✅8 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x1acfbc4c6ea145cde5d8db39d50ff180a20f146f8267164334bd17ba827062f6
+info: ✅:  Amount of BTK burned is 1000000000000000
+info: ✅:  Minting for 1000000000000000 ETK in progress
+info: ✅9 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xdaf9f75e1e290ec753ec8b7bb9c1f1bc325ca24773d5211cd5d7b47fadc0da5d
+info: ✅:  Amount of BTK burned is 10000
+info: ✅:  Minting for 10000 ETK in progress
+info: ✅20 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xebbd330e749abe068bedf3e3cb62868c1285224cb2adba16836311ddcb6fa1ae
+info: ✅:  Amount of BTK burned is 10000
+info: ✅:  Minting for 10000 ETK in progress
+info: ✅21 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x9329528e27438ba4bb1f99e9fecdb65a737383fefbd0d5db9216123e392d3091
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+info: ✅22 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xcb2c2ccfc6eb3a20342b2e35ec43dd639908c64f550b2f52c108f7b2edb627cb
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+info: ✅23 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xa756cb94ea75cbc93d3b0410b39dce980a3ff159652caf00b603fdb25e53d958
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+info: ✅24 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xc9bb0e30af29cdd806aea7d5c05596e39fcaaf1dd818633ad7ac1f6f05ae0f13
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000 BTK in progress
+info: ✅40 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x2b3ccaf5ce91e0c6e72b863cc72a6417cf7834befcc9181be17deba99ef5835f
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for 1000 BTK in progress
+info: ✅57 
+info: ℹ: txHash for burning BTK on binance: 0xa9f5aedf84550bd90415a113f97f6341fc0eee4a99b3d098dd9284f07b063455
+info: ✅:  Amount of BTK burned is 100000000000000000
+info: ✅:  Minting for 100000000000000000 ETK in progress
+info: ✅41 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xbaac1a928704dfc1745a0047f8b19860de39a9ed1ab88151688c0eb6e92e00d3
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000 BTK in progress
+info: ✅58 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ✅: Minting is done! 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ✅: Minting is done! 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x6e524cf34da028e636612e15ada61ee4094fa5109aeb3992b790d78987ede907
+info: ✅:  Amount of BTK burned is 101000
+info: ✅:  Minting for 101000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xbe3f6e63a4f25e3f8ca475dd171e50bcfc7f660fcb236f6242dc902dafc5f9f0
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x75d7b182f9cdd18a752b63711fcf0430ba2181985726987f4a06b19463ac3ea5
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+error: Can't mint the tokens!: Invalid JSON RPC response: ""
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xe3fff2e024ef7810f3834850c656d7e48c1beafc7dff7adda60ca94455396bfb
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x44bc11bf5fda64c93baca64a9c0dd062595d9220e2ea3b6fce397ce4bde68cdb
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x729fe115e608509c821eb6df71949669e11207b5169e0fec33b9ddc341e229b5
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xef5fb702061096bfb0162628e73551403ead1dc5283fb4ce01da71ec03af8441
+info: ✅:  Amount of BTK burned is 1000
+info: ✅:  Minting for 1000 ETK in progress
+info: ✅1 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0xb792484c6056605eee7eced3c002869f97163db78c6db70f67f1014eeb877f68
+info: ✅:  Amount of BTK burned is 11000
+info: ✅:  Minting for 11000 ETK in progress
+info: ✅2 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x2282a91a23475d17036220a95266fc5a82bd56efc172e116d8d1a453b8da974b
+info: ✅:  Amount of BTK burned is 1100
+info: ✅:  Minting for 1100 ETK in progress
+info: ✅3 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xdf45b65f125c4b2624fd748ba7734b24c4803f8ef9ca544bc7dcfc045b0f03ca
+info: ✅:  Amount of BTK burned is 1100
+info: ✅:  Minting for 1100 ETK in progress
+info: ✅4 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x0e19db49c0f89d6dcaa8cba92fe53245fa207ec6621c9867abb8b71aaa607cbd
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅5 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xb74eea0569217eb1556713d3cbdde013dca691681651b471efd6a0f917423864
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅6 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x55369c20c9ce87a3aace2608378b901695c27d6bb55767c655af22efbfeddffd
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅7 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xcdc67730d4b48913c51f6a30a12c5278eab3d9be415fd800f0ee7219ab76fecc
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅8 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xf1b001a7ea59b9ccac3bbd3b7c1bb4d025a497afdd9e954a71eb23a843b9d95d
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅9 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xc93f15d766c91a35d2444f2c256a391244a5e3fa123fffe49e70a76f13937584
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅10 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7872c796734eb42565cf2e8b0465873c7e006cacd84eaee36730d16c3720316e
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅11 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x19655fb91ce7a49239910af6c0287eec4f7567d87c8833b189665b6ab216503e
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅12 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x757953852d2477dd11430bfe7939e15898630497ec361df7c72fdb4d33fba87c
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅13 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="0.01", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x138addc9045f80ce4b8251e21e6fc3634a63013846c8bcb1c327148a24720861
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅14 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x026ea0c3ca184e79db794afe395470d271c9f87d5afffa0d65535d5dc7c74838
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅15 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x2df92f4fbccfe39a4508fcc8295e58146fa564013c22c9bec422580df89e3130
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 100.0000000000 BTK in progress
+info: ✅1 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="100.0000000000", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xddca0434c8e90bb3e2279c1259ac7239c5702136835f86cc6dbc4d5b49f57d47
+info: ✅:  Amount of ETK burned is 10000000000000000
+info: ✅:  Minting for 100 BTK in progress
+info: ✅2 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x5729b623723e6563cac70fa7c5c5242af0814bc478894125dae1d400940113d7
+info: ✅:  Amount of BTK burned is 100
+info: ✅:  Minting for 100 ETK in progress
+info: ✅16 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xb9497f1c634f38c7962eb638a6c9ee8f29661d4eb92f6502d1e43b2a0543445e
+info: ✅:  Amount of BTK burned is 10000
+info: ✅:  Minting for 10000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning ETK on ethereum: 0x281a8d830f74880c0f891c989dd42134b68b467f3fc70e997af04cb374803ca0
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000000000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x76b1a7ae94abf2c6a6611b037008eeb32be73bd7a48cfc4ce93fa43b0d11eb89
+error: Can't mint the tokens!: [ethjs-unit] while converting number 10000.0000000000000000000000 to wei, too many decimal places
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x6dd29b4e866602a94c825470e7cebc039e533698b0b99a0cfaaf2dbfe05ee3ae
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 100000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2ffcbb1f83bccaa0a68b79f1592b8bb9be16953659fb8b51942364aad1aa9520
+info: ✅:  Amount of BTK burned is 10000
+info: ✅:  Minting for 1000000000000000000 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: ℹ: txHash for burning ETK on ethereum: 0xe1d6a5ec1f6f2c1db0dc3f05d18582c371a0181468ade9d3bc0cb1c40f77680e
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000000000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x379d694ad94e398fd64d813301fbda382fb61d07f0e6a523987ad506c12079d2
+error: Can't mint the tokens!: [ethjs-unit] while converting number 0.0001000000000000000048 to wei, too many decimal places
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x6c797dc636b8b9448ff733812d7977525c5420bf5a6deb2c241936599ff4942f
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000000000000000000000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x60887d5e0cf72eca2e4d7be0b9074c7bef2adcdb5707e515ff2cb1f7b5c606a1
+info: ✅:  Amount of ETK burned is 1000000000000000000
+info: ✅:  Minting for 10000 BTK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xedf79fafd7bbe432ec647f0a58336813b3b53b2b35b6fa852c962e4dbbc75a49
+info: ✅:  Amount of BTK burned is 100000000000000000
+info: ✅:  Minting for 100000000000000006 ETK in progress
+info: ✅1 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0xa048415d72c059cca627e967ec11fe23ad1a9d8cd1f1c644547b9caf549bd285
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for 100000000000000006 BTK in progress
+info: ✅1 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2e5699597524e2bcf668892b9786174acbf41703337626c9c6f0445b87f977b5
+error: Can't mint the tokens!: fetch is not defined
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xa43d3ffffa2ce3d5169fa18fe507d2e685f15e493bc0e1f682bf7a186158ba60
+error: Can't mint the tokens!: fetch is not defined
+info: Server started on port 5000
+error: Can't mint the tokens!: Cannot destructure property 'txHash' of 'req.body[0]' as it is undefined.
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x83c89af2686d1aa19afa61485465b577051907053e29427010279586df8bcaba
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for 2028305745517998471 BTK in progress
+info: ✅3 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x49522a9abc5b4d82f119aba9f5253b93c85b373bc076276dff24194640df99e0
+info: ✅:  Amount of ETK burned is 100000000000000000
+info: ✅:  Minting for 2015283616162217850 BTK in progress
+error: Can't mint the tokens!: Returned error: VM Exception while processing transaction: revert Only admin can mint tokens
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x91ed7d58963bc42dee084509e6832bc31bdd55b9ca90750a27e7ea40609eddc9
+info: ✅:  Amount of BTK burned is 0
+info: ✅:  Minting for 0 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x19b13fc7b29f7d86d40cfb9769e8d9a430a14fb47c74ebe118c0ae0080c814ac
+info: ✅:  Amount of BTK burned is 0
+info: ✅:  Minting for 0 ETK in progress
+error: Can't mint the tokens!: Returned error: execution reverted: Only admin can mint tokens
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x4367ca33c918fc98da06edf16a9e1ae5b2ee0dac49982e7e2a45be4acf974c6b
+info: ✅:  Amount of BTK burned is 10000000000000
+info: ✅:  Minting for 10000000000000 ETK in progress
+info: ✅3 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xe3e89c33b9ea297f59c9784f4dd5f42b84d78a7a062d1ba29d5362834f9b98c0
+info: ✅16 
+error: Can't mint the tokens!: bridge.methods.bnbMint is not a function
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x5545cf7a632f29f43287c8d9b58080cc3ba65af353ef6c4a8def6f9db39dfee5
+info: ✅17 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xa7ab04370a404f16bd455ccc59d92fea9a619e8254407f8dbaf1526da6984203
+info: ✅:  Amount of BTK burned is 100000000000000
+info: ✅:  Minting for 127615971652722 ETK in progress
+info: ✅1 
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xa540dfe41d2c6803f80bbad623381c56f6c87b7d9d8d163a2aa296786483a2bd
+info: ✅:  Amount of BTK burned is 1000000000000000
+info: ✅:  Minting for 1276159716527224 ETK in progress
+info: ✅2 
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7bc196cbf6f1e7ec25aeda3b221e3ffe31b04f68d41265655147fe4ba09f0809
+info: ✅:  Amount of BTK burned is 1000000000000000
+info: ✅:  Minting for 1000000000000000 ETK in progress
+info: ✅3 
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x61dfa3aae058abf264d535c506173fd6a961bc24bd8404c94f1f4088a46fe8ca
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+error: Can't mint the tokens!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x17c3948542d38dfafa5c9b5ac6640e97a852627e9d5024690dfb4bc4a794633c
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+info: ✅2 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2ee72270e7bf76452b9a8314ae5cd249c6d52757ec83257d6731c34da6a581e9
+info: ✅:  Amount of BTK burned is 1000000000000000
+info: ✅:  Minting for 1279908271137438 ETK in progress
+info: ✅4 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x2cbac4248f1c4be8e4f0801613f00772506241db7262717ef1f3a2925dbf7895
+info: ✅:  Amount of BTK burned is 100000000000000
+info: ✅:  Minting for 100000000000000 ETK in progress
+info: ✅5 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xd71b43907e23185d1216e9bd18cf87d7a460cb86ef9447aedc09833ac1362ff5
+info: ✅:  Amount of ETK burned is 1000000000000000
+info: ✅:  Minting for 1277784900049098 BTK in progress
+info: ✅3 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x3f562a297f37b208ff951c07cae40527f7910ee3f10dad55e818157d7f2753d0
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+info: ✅4 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x1eb4222ffeb749328545e99ea5d8e4104151c0f6db440364a970cd4b199cc448
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+info: ✅5 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xa01ed01f1e3811a1187f51b39d4202115bb7c8834c16f4a8240e9edc9b32fcfa
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+info: ✅6 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x7e1081aa8e68080d86dd7fbb6dfabc34e6f471211aa80dc8cd360240cbbabda6
+info: ✅:  Amount of ETK burned is 0
+info: ✅:  Minting for  BTK in progress
+info: ✅7 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0x33d478e052cbde8aeaf938b856ef2309d597c8dfdb7614133f7a92f465c46674
+info: ✅8 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning ETK on ethereum: 0x08607613dd6052589c23b993ecaf9b4c05d9eb11ecf3960d5ae0830d6f3afae7
+info: ✅:  Amount of ETK burned is 1000000000000000
+info: ✅:  Minting for 1277319983430385 BTK in progress
+info: ✅9 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning ETK on ethereum: 0xa6519c260574969debeab265aee6fdddfa89d31f98ddb206f2c19365f9562e46
+info: ✅:  Amount of ETK burned is 1000000000000000
+info: ✅:  Minting for 1000000000000000 BTK in progress
+info: ✅1 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x8fce294e4aa087f86d8092b621d67afad5fb0e33428a2beb7bb2d801d6533e9d
+info: ✅1 
+info: ✅: Minting is done! 
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+error: Can't find amount!: Returned values aren't valid, did it run Out of Gas? You might also see this error if you are not using the correct ABI for the contract you are retrieving data from, requesting data from a block number that does not exist, or querying a node which is not fully synced.
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+info: Server started on port 5000
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: ℹ: txHash for burning BTK on binance: 0x425be87ca3f52c85d56b99e7c1eed9ef5d35aba0d575c8a1a5b8847641eeb8c3
+info: ✅1 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x316da24fa929095bca31a49f5706c0253831e140fa448738c301aa912c40d45b
+info: ✅2 
+info: Server started on port 5000
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: ℹ: txHash for burning BTK on binance: 0xcbb1222705cf81878d5b856a210460f00fb392951eb8b119bfde323be56e48e7
+info: ✅3 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x166caafb8761706d5105154076c71cb1322dd246a0c1e5d3a438940a96bc17b2
+info: ✅4 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7381f6a091d7bde82761af4ee9c8c6d7ada9b41d3265569b644802367f1d2753
+info: ✅5 
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: ℹ: txHash for burning BTK on binance: 0x10ff7d04e63ba1c9f8ea70c7da2e453b1faf81bfacf20dda53615a1a2353a34b
+info: ✅6 
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xb547311f9f908b8483d21b73e688165ab7cf72c6c6608e7142a518c9ffe28e37
+info: ✅7 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x07240649b72640d5216bd87a985fa0554aafa98a04fd98dd4479a38ab988032e
+info: ✅8 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x5993f3ed0b000b7635c033afd45191e213a08ef63ea29347f37c9f0dbf91cbb1
+info: ✅9 
+error: Can't mint the tokens!: invalid BigNumber string (argument="value", value="1000.000", code=INVALID_ARGUMENT, version=bignumber/5.6.0)
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xb59dc3f948353060915dd9cc37f8f9722c9e240ccd50502ff43d7d114918fa9c
+info: ✅10 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x1e832062d0d374e3e3e7016ca009306a008750adc79c1409d557df3ce6772a21
+info: ✅11 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xa1877ec421387ee0d26d2ee3b086d5e0c997ce69fe233a3fc0189d08777894c6
+info: ✅12 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x775cc457cbddf05860610652486e9f7b874f290d33636601b1c70980bf801df4
+info: ✅13 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x5a9edcafc7a99ba70a419484146fd976efeee2320f980cca867056c4443fae01
+info: ✅14 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x1b522d7f766fae2fbe252bd6edd7cf3aa6c6bb789b7a84e9bcd15ea79ac79059
+info: ✅29 
+info: Server started on port 5000
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2044daa21eaf7797ff580b78c44d028290cd185f777d7574333c48fcbe411bef
+info: ✅30 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7255070bd23e0e0e362d5aaeb0c72a76e9ad899dde1055a469bb0c0dda8c39f1
+info: ✅31 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2935fa8970fbdcd71a981a9133e041e7bde051a43bd64fe129d94a4d0ad3456b
+info: ✅32 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x5dc2d65d98f8571c661750a8411241f33d6b19345354959194490c06d80fd9ef
+info: ✅33 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x6d3e3901c459806b988c9cebbd9cbaec5a160a3a4557cf3da91d2fd78a5af7b2
+info: ✅34 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x4ac9267af476cdc388298b4d173a97ccdac4c45e7bafd9b34064d8c1089cd10b
+info: ✅35 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2aa9f486f63a46b782a50328cbe84c8ed77e45efbad129f035443fc3ee514973
+info: ✅36 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x9e8a88ae5c837b9a907cea4c4196fc4118171035795a4e568e17cb8cb1efd0f3
+info: ✅37 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x3d98e8bbe719aafb0e8baba843c1d421f6de51eb30eaa0143f0fdce9494c2e16
+info: ✅38 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7a6ab2d369797951a33204df029a1413f3f46765c685212de1b26039ab659aae
+info: ✅39 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xcfda36c6b590737edd506ebe752625cd13a6a3d6439e895341356c109d6b214d
+info: ✅40 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xeb850cb59ac33d1dc1ca8b609e486e1fecf3eadab74bb3f4c599ead5a6a60faf
+info: ✅41 
+info: ℹ: txHash for burning BTK on binance: 0xe1eb760196c2bbe5feb589cca932616ee371daf2b3a4409d4cdde7ab89031550
+info: ✅42 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7c2c40b363c032f0cf4c7167c90c1ebf5f8b3a1426495ccd82bb257a8a71d706
+info: ✅43 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x89a6c92b70f40de34b9a26cd729e06b71be64af73a67409bf609ad69ed25a461
+info: ✅44 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x0382438067142597a7f070bae244d91b9c28b2070e2b6eade6c4d8d89940d036
+info: ✅45 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x440e68edc95abb90c822e3697ae52154aa5cd946e3b69b7ffcbbd7eff18554fe
+info: ✅46 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x530085e3cffa5b88474915c7e947e76977d76bddf282c8abc28fff5718ec0152
+info: ✅47 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x5793fb20030bff870b61ce2fbe9c7c78fafb6e65754cd80aeacedd3a9b92bf17
+info: ✅48 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x641f47dcf428714f834ab4d63a9686b10731c4d3af810f2dd9280253fcb55e48
+info: ✅49 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x45522e522d5e0081d5ff5f92f471a8af34827e0c04b04eca42e328a9fba312d3
+info: ✅50 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xf55e00c320d435d2017d4637147c71d31be353903ef72a853823b196e169e5b7
+info: ✅51 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7cad8d7a55fa93f5391546e187aa19866d93c2fe6fbaf30af7e104f25163fcde
+info: ✅52 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x676140de7b35ff714280e562e4e91d3cfc0df3f21f3007a7146e34fdf2680a81
+info: ✅53 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x7d0786b9983a0ff2976bd4bf1f111371bd19f45e79cca4ca05d0141e0c4dc001
+info: ✅54 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x044f5ef491f2ac7763ea67b59de1d46b1d016ca9dd0a808b885bb5e6343cd53c
+info: ✅55 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x2f09a6936a6669335b444d4b349aa14d0550d07b525cc6152735497b828b7ac0
+info: ✅56 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0xbfe32c0dea6f5716f14793654b8e7daa98fd6edac2a311091a593acba5181fa8
+info: ✅57 
+info: Server started on port 5000
+info: ℹ: txHash for burning BTK on binance: 0x534f086cb6159f8213a8cdb977a74f8208277c58a6f60495a0fb85d5b32d4bdd
+info: ✅58 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x5f7f8f339950bc99019e603abc348dbd2135d732cc92357826bfcea9e702c372
+info: ✅59 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x92eafa6955690a866070761c5778a247110a107a4343775d68f5a5935a2c87da
+info: ✅60 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0x702de2e3ec5b538ac5ee614fa4c0222eaa799cb4fc3c8016cd09944131c9fe8a
+info: ✅61 
+info: ✅: Minting is done! 
+info: ℹ: txHash for burning BTK on binance: 0xb47960878b0ebe0d118efec6a61d9a23b903dcfe4a3c3b53e439f8e90f15c1a6
+info: ✅62 
+info: ✅: Minting is done! 
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+error: Can't find amount!: Invalid JSON RPC response: ""
+info: Server started on port 5000
+info: Server started on port 5000
